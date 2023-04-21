@@ -1,0 +1,36 @@
+#cv-btn{
+    background-color: #322e2f;
+    color: white;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+#cv-btn:hover{
+    color: rgb(167, 166, 166);
+    text-decoration: none;
+
+}
+.bg-prof{
+    background-image: url('../images/prof.jpeg');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.font-15{
+    font-size: 1.5rem;
+}
+.pb-big{
+    padding-top: 5% !important;
+    padding-bottom: 700px !important;
+}
+#page-container{
+    position: relative;
+    min-height: 100vh;
+}
+.footer-holder{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

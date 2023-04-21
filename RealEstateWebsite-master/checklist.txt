@@ -1,0 +1,13 @@
+1. Favorites (done)
+2. About me (done)
+3. Modal (done)
+4. Design (done)
+5. Documentation
+6. Real data (done)
+7. Hosting
+
+1. Real links on footer (done)
+2. On load main page adjust select tags
+3. fix footer to be always on bottom (done)
+4. Real text on index.html (done)
+5. Fonts

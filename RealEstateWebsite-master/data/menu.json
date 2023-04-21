@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Home",
+        "href":"index.html"
+    },
+    {
+        "name":"Find a Property",
+        "href":"property.html"
+    },
+    {
+        "name":"Favorites",
+        "href":"favorites.html"
+    },
+    {
+        "name":"Author",
+        "href":"author.html"
+    },
+    {
+        "name":"Documentation",
+        "href":"docs.pdf"
+    }
+]
